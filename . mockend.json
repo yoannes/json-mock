@@ -1,0 +1,8 @@
+{
+  "User": {
+    "id": "string",
+    "name": "int",
+    "email": "boolean",
+    "password": "date"
+  }
+}
